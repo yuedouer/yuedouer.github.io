@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yuedouer.github.io.git</id>
+    <title>赛博存梦处</title>
+    <updated>2023-12-09T03:16:04.434Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yuedouer.github.io.git"/>
+    <link rel="self" href="https://yuedouer.github.io.git/atom.xml"/>
+    <subtitle>一些支撑无聊生活的文字</subtitle>
+    <logo>https://yuedouer.github.io.git/images/avatar.png</logo>
+    <icon>https://yuedouer.github.io.git/favicon.ico</icon>
+    <rights>All rights reserved 2023, 赛博存梦处</rights>
+    <entry>
+        <title type="html"><![CDATA[失落的红龟]]></title>
+        <id>https://yuedouer.github.io.git/post/shi-luo-de-hong-gui/</id>
+        <link href="https://yuedouer.github.io.git/post/shi-luo-de-hong-gui/">
+        </link>
+        <updated>2023-05-01T12:47:06.000Z</updated>
+        <content type="html"><![CDATA[<p>古老传说被歌者织成童谣<br>
+鲜血添作想象的注脚<br>
+欲望充当灵魂的掮客<br>
+梦在呢喃它失落的名<br>
+破碎音节失去语言模样<br>
+谁能辨认它本来面目？<br>
+晚夕陷落于沙粒间<br>
+吟游诗人用衣角收留清风<br>
+孤星继续寻找另一个同路人<br>
+红龟早已被世人遗忘<br>
+春雪无声掩埋足迹<br>
+时光也沦为帮凶<br>
+一同砸碎偶存的化石<br>
+街角的流浪儿是见证者<br>
+眼泪倒影出彼此罪行<br>
+于是<br>
+回忆终于合乎想象<br>
+被岁月收藏进琥珀<br>
+此后<br>
+红龟的童谣只能被梦反复吟唱…</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[都市恐龙]]></title>
+        <id>https://yuedouer.github.io.git/post/cheng-shi-kong-long/</id>
+        <link href="https://yuedouer.github.io.git/post/cheng-shi-kong-long/">
+        </link>
+        <updated>2023-02-24T06:28:09.000Z</updated>
+        <content type="html"><![CDATA[<p>推开窗，信宜仰头狠狠吞了一口午后微甜的空气，微风奶油冰淇淋一般溜进身体里，她微微眯起眼，啊，已经是秋天了。<br>
+说起来，大部分人对于季节交替的记忆几乎都是模糊的，若闲聊中无意问起“哎呀，天气什么时候变凉的？都没注意到呢，”其他人大多会回答“好像是前几天吧”<br>
+而信宜会答“是10月12号那天下午两点十五分的时候，空气突然变凉了。&quot;<br>
+人们不置可否，对信宜笃定的语气感到无趣和可笑，仿佛笑话被不速之客打断，松弛温热神经被猛地扯断扔进冰桶里一样。<br>
+对大部分人来说，信宜是不可理解的史前文明。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://yuedouer.github.io.git/post/hello-gridea/</id>
+        <link href="https://yuedouer.github.io.git/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
